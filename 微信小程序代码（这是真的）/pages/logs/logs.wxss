@@ -1,0 +1,49 @@
+/* pages/logs.wxss */
+.title{
+  width: 100%;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  top:0;
+  right: 0;
+  border: 2px solid red;
+  background-color: pink;
+}
+.title1{
+  width: 100%;
+  height: 10%;
+  align-content: center;
+  position: absolute;
+  top:10%;
+  right: 0;
+  border: 2px solid blue;
+  background-color: yellow
+  
+}
+.kuang1{
+width: 50%;
+height: 40%;
+position: absolute;
+top:20%;
+right: 50%;
+border-radius: 10px;
+border: 1px solid black;
+}
+.kuang2{
+  width: 50%;
+  height: 40%;
+  position: absolute;
+  top:20%;
+  right: 0;
+  border-radius:10px;
+  border: 1px solid black; 
+}
+.kuang3{
+  width: 50%;
+  height: 40%;
+  position: absolute;
+  top:60%;
+  right: 25%;
+  border-radius:10px;
+  border: 1px solid black; 
+}
