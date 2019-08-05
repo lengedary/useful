@@ -1,0 +1,39 @@
+/* pages/logs.wxss */
+.box2{
+  display:flex;
+  flex-direction: row;
+  align-content: center;
+  width: 60%;
+  height: 20%;
+  position: absolute;
+  top: 10%;
+  right: 20%;
+  bottom: 60%;
+  left: 20%;
+  
+
+}
+.z{
+  width: 30%;
+  height: 10%; 
+  border: 1px solid black;
+  
+}
+.back{
+  background: url("http://img4.imgtn.bdimg.com/it/u=1723130821,3055824007&fm=26&gp=0.jpg");
+  background-size: cover;
+}
+.rolling{
+  width: 50%;
+  height: 60%;
+  position: absolute;
+  top: 40%;
+  right: 25%;
+  bottom:0%;
+  left: 25%;
+  overflow-y:scroll; 
+}
+.letter1{
+font-size:30px;
+font-family: 宋体; 
+}

@@ -1,0 +1,12 @@
+<!--logs.wxml-->
+<view class="container">
+<view class="box2">
+<image class="z" src="http://img4.imgtn.bdimg.com/it/u=3422346977,2553788595&fm=26&gp=0.jpg"></image>
+<image class="z" src="http://img4.imgtn.bdimg.com/it/u=1723130821,3055824007&fm=26&gp=0.jpg"></image>
+</view>
+<view class="rolling">
+<text class="letter1">这里有几张小照片哦^_^</text>
+
+<text class="letter1">大家应该觉得好看的吧^-^</text>
+</view>
+</view>
