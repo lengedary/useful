@@ -1,0 +1,12 @@
+<!--logs.wxml-->
+<view class="container">
+
+<image class="kuang1" src="http://img4.imgtn.bdimg.com/it/u=3422346977,2553788595&fm=26&gp=0.jpg"></image>
+<image class="kuang2" src="http://img4.imgtn.bdimg.com/it/u=1723130821,3055824007&fm=26&gp=0.jpg"></image>
+<image class="kuang3" src="http://img1.imgtn.bdimg.com/it/u=3818249532,1558495751&fm=26&gp=0.jpg"> </image>
+
+<text class="title">这里有几张小照片哦^_^</text>
+
+<text class="title1">大家应该觉得好看的吧^-^</text>
+
+</view>

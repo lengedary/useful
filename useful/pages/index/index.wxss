@@ -1,0 +1,49 @@
+/* pages/index.wxss */
+.box{
+  background: url("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3011481082,552400643&fm=26&gp=0.jpg");
+  width:100%;
+  height: 30%;
+  position: absolute;
+  border: 1px solid red;
+  margin-bottom:10px; 
+  top: 0; 
+  right: 0;
+  align-content: center;
+}
+.a1{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: 60%;
+  position: absolute;
+  top:30%;
+  left: 0;
+border: 2px dotted black;
+
+}
+.aa1{
+  width: 38%;
+  height: 60%;
+  position: absolute;
+  top: 30%;
+  right: 0;
+  background: url("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3033176232,2434664169&fm=26&gp=0.jpg");
+border: 3px solid blue;
+overflow-y:scroll; 
+}
+.letter{
+  align-content: center;
+  font-size: 40px;
+  letter-spacing: 22px;
+}
+.b{
+  width: 98%;
+  height: 15%;
+  background-color: pink;
+  align-content: center;
+  margin: 5% 0;
+  border: 2px dotted red;
+  
+
+
+}

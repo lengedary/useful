@@ -1,0 +1,20 @@
+<!--pages/index.wxml-->
+<view class="container"> 
+
+
+<view class="box">
+<text class="letter">
+Welcome
+</text>
+</view>
+<view class="a1">
+<text class="b">我也不知加啥。。。。</text>
+
+<text class="b">更多内容，敬请期待</text>
+
+<text class="b">这里没有东西。。。 </text>
+</view>
+
+<text class="aa1">别问这也没有-_-</text>
+ </view>
+ 
